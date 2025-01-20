@@ -1,16 +1,25 @@
-# flitzy_flyer
+# Flitzy Flyer
 
-A new Flutter project.
+**Flitzy Flyer** is a fun and addictive arcade game where you guide a tiny bird through an endless series of obstacles. Inspired by the classic Flappy Bird, this game is easy to play but challenging to master!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- Simple one-tap controls.
+- Endless gameplay with increasing difficulty.
+- Retro-style graphics with vibrant colors.
+- Fun sound effects and animations.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## How to Play
+1. Tap the screen to make the bird flap its wings and rise.
+2. Avoid colliding with obstacles.
+3. Try to score as many points as possible by passing through gaps.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/mohsinakmal/flitzy_flyer.git
